@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sonam kandari\\Downloads\\jcalendar-tz-1.3.3-3.jar"
+    ]
+}
